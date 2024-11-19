@@ -1,4 +1,4 @@
-# Topico_Elctrronics
+# Topico_Electronic
 This project is a responsive e-commerce website built using Angular. It displays electronic products and provides essential e-commerce features like adding products to a cart, viewing product details, searching, and applying discounts during checkout.  
 
 ## Features  
